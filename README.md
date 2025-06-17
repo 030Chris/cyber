@@ -6,6 +6,7 @@ Analyst: Chris Bekoe
 Date: 14/06/25
 
 Alert
+
 An alert was generated after a suspicious link was detected in the email of Dylan from the email address ‘update@windows-update.site’ with the SMTP IP address of 132.232.40.201 and was sent to Dylan on Mar,13 2025, 09:44AM. Email security tools did not flag the message; the action showed was ‘Allowed’.
 
 Detection
